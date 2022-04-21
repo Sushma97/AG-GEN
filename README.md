@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=6qqotml1av8 
 
 
-This is our 2022 source code for HackIllinois. Our p
+This is our 2022 source code for HackIllinois. 
 Hi there! If you are looking to explore the backend, I would look at `app.py` and `backend/service/service.py`.
 
 If you are looking to explore the frontend, `frontend/src/App.js` and `frontend/src/components/Predictions/index.js` are great places to start.
